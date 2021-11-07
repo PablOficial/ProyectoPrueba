@@ -1,6 +1,5 @@
 ##aceptadas modificaciones
 print("hola mundo")
-numero1 = 100
 ##cambiada la variable numero1
 
 numero1 = 400
